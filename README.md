@@ -1,3 +1,3 @@
 # apnacollege-demo
 this is my first git repository
-author: Zeeshan Ahmed
+author: Zeeshan Ahmed(from Jharkhand)
